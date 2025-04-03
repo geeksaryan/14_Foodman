@@ -4,20 +4,24 @@ Foodman is a modern and responsive web application designed for food enthusiasts
 
 ## Live Demo 🌐
 
-Check out the live version of the Foodman app here: [Foodman Live](#) 
+Check out the live version of the Foodman app here: [Foodman Live](https://foodman-blond.vercel.app/#) 
 
 ## Screenshots 📸
 
 ### 1. **Homepage**
+
 ![Homepage](assets/home.png)
 
 ### 2. **Special Dishes Section**
+
 ![Special Dishes](assets/specialDishes.png)
 
 ### 3. **Chef Section**
+
 ![Chef Section](assets/chefpage.png)
 
 ### 4. **Customer Testimonials**
+
 ![Customer Testimonials](assets/customers.png)
 
 
