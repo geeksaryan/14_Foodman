@@ -54,8 +54,7 @@ Foodman/ ├── assets/ │ ├── chef.png │ ├── client-1.jpg │
 ## How to Use 🖥️
 
 **1. Clone the repository:**
-   ```bash
    git clone https://github.com/your-username/foodman.git
-2.Navigate to the project directory:
+**2.Navigate to the project directory:**
     cd foodman
-3.Open index.html in your browser to view the app.
+**3.Open index.html in your browser to view the app.**
