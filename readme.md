@@ -64,3 +64,6 @@ Foodman/ ├── assets/ │ ├── chef.png │ ├── client-1.jpg │
     cd foodman
     
 **3.Open index.html in your browser to view the app.**
+
+**Made by**
+Aryan raj
