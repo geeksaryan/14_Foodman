@@ -1,4 +1,4 @@
-# Foodman 🍴
+# Foodman App 🍴
 
 Foodman is a modern and responsive web application designed for food enthusiasts. It provides a seamless experience for users to explore, order, and enjoy delicious meals. The app features a visually appealing design, smooth animations, and interactive elements to enhance user engagement.
 
